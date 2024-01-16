@@ -1,0 +1,9 @@
+# envirement files
+.env*
+
+# dependencies
+node_modules
+
+# folders
+build
+log
